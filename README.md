@@ -84,7 +84,6 @@ Redis (Persistence + Rate Limiting)
 Worker(s) → SMTP (Ethereal)
 
 ```
-## Project Structure
 
 
 
